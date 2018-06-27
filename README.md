@@ -1,0 +1,2 @@
+# workingCopy
+My Angular project
